@@ -1,5 +1,5 @@
 {
-  "name": "pouchdb-live-find",
+  "name": "@chrispahm/pouchdb-live-find",
   "version": "0.5.0",
   "description": "Live PouchDB queries that update automatically as changes come in!",
   "main": "lib/index.js",
